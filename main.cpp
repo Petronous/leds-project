@@ -83,6 +83,8 @@ int main() {
     //   for (auto j:i) {cout << j;}
     //   cout << endl;
     // }
+    string useless;
+    cin >> useless;
 
     return 0;
 }
