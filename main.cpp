@@ -84,6 +84,7 @@ int main() {
     //   cout << endl;
     // }
     string useless;
+    cout <<"write something to end this";
     cin >> useless;
 
     return 0;
